@@ -1,5 +1,5 @@
 <p align="center">
-   <h1 align="center">ValueSoft: Identity and Location Verification</h1>
+   <h1 align="center">ValueSoft: Mobile Identity and Location Verification</h1>
     <br>
 </p>
 

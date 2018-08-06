@@ -17,7 +17,7 @@ $this->params['breadcrumbs'][] = $this->title;
             <div class="login-content">
                 <div class="login-logo">
                     <a href="<?=Yii::$app->homeUrl?>">
-                        <img src="<?=Url::to('@web/')?>images/logo.png" alt="CoolAdmin">
+                        <img src="<?=Url::to('@web/')?>images/logo.png" alt="ValueSoft">
                     </a>
                 </div>
                 <div class="login-form">
